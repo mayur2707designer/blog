@@ -16,3 +16,18 @@ BrowserStack is a leading software testing platform powering over two million te
  1. Zero setup and zero maintenance to speed up releases.
  2. Instant access to 2000+ browsers and real iOS and Android devices.
  3. SOC2 compliant. Pristine browsers and devices available for everyone, every time.
+ 
+ 
+ ##  2. Responsively App
+
+The application offers a lot of useful features that makes the app a "must-have"of every Developers and Testers.
+The applications has an extensive collection of device profiles, covering most of the devices on the market. You can even design your own profiles or customize the existing ones as you want and need.
+
+- **Benefits**
+1. Mirrored User-interactions across all devices.
+2. Customizable preview layout to suit all your needs.
+3. One handy elements inspector for all devices in preview.
+4. 30+ built-in device profiles with option to add custom devices.
+5. One-click screenshot all your devices.
+6. Hot reloading supported for developers.
+
