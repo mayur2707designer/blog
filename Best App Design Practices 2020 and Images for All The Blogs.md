@@ -2,23 +2,23 @@
 # Best App Design Practices 2020 and Images for All The Blogs
 
 ------------
-### Optimal mobile app design is design that does not require users to think much and focuses on emotions, motivations and needs.
+### Optimal mobile app design is a design that does not require users to think much and focuses on emotions, motivations, and needs.
 ### Why You Should Care: The Importance of Mobile App Design In 2020
 
-#### Nowadays, everyone is looking for valuable information, so it's become much harder to create attention-grabbing products. Though, your product may be valuable, but if it is difficult to use, nobody will waste time on to find app flow. Modern design should reflect the latest tech innovations.
+#### Nowadays, everyone is looking for valuable information, so it's become much harder to create attention-grabbing products. Though your product may be valuable, if it is difficult to use, nobody will waste time on finding app flow. Modern design should reflect the latest tech innovations.
 
 ### Best Practices in Mobile App Design in 2020
 
 #### 1. Animations and Microinteractions
-Using micro interaction you are enabling user to get interact with app. It grab the attention directly and we don't need to add a extra text or anything
+Using micro-interaction you are enabling the user to get interact with the app. It grabs the attention directly and we don't need to add an extra text or anything.
 #### 2. 3D objects
-3d objects allows user to get more realistic experience which will create interest in your product. When user view and touch product it creates emotion and interest in conversion
-#### 3. New Skeumorphism
-Besides the 3d model or object this style elements also create effect like real world objects. Which is now known as neumorphism.
-Details, shade & light create effect which user fill like realistic.
+3d objects allow the user to get a more realistic experience which will create interest in your product. When users view and touch a product it creates emotion and interest in conversion.
+#### 3. New Skeuomorphism
+Besides the 3d model or object, these style elements also create an effect like real-world objects. Which is now known as neumorphism. Details, shade & light create an effect that the user fill as realistic.
 
 #### 4. Storytelling
-Storytelling is all about providing flow which has less user interaction and clear thoughts for user. It is the combination of short texts, informative illustrations, and an uninterrupted UI.
+Storytelling is all about providing flow which has less user interaction and clear thoughts for the user. It is a combination of short texts, informative illustrations, and an uninterrupted UI.
+
 Here's how you can achieve it:
 
 • Use short notifications on the page instead of pop-ups and overlays
@@ -26,17 +26,21 @@ Here's how you can achieve it:
 • Use dynamic UI
 
 #### 5. VR and AR
-VR and AR is now coming in all industries apps which were use only in gaming & entertainment apps. It will stand out your app among others.
+VR and AR are now coming in all industries apps that were used only in gaming & entertainment apps. It will stand out your app among others.
 
 #### 6. Minimalism
-This is my favorite one use space and provide breath to elements. Average attention of humans with apps decreasing and it will continue to decrease so it's difficult to get attention of user, That is why minimalism and simplicity are two UX/UI trends that won't go away.
-Here is the some examples by you can achieve minimalism:
+This is my favorite one use space and provides breath to elements. The average attention of humans with apps decreasing and it will continue to decrease so it's difficult to get the attention of the user, That is why minimalism and simplicity are two UX/UI trends that won't go away.
+
+Here are some examples by which you can achieve minimalism:
+
 • White space
+
 • Hidden navigation panels and bars
-The popular example of a buttonless solution is a liquid swipe, which provides a fully intuitive transition between pages and categories.
+
+A popular example of a buttonless solution is a liquid swipe, which provides a fully intuitive transition between pages and categories.
 
 #### 7. Dark Mode
-Dark mode is very important now days to take care of your eyes. As you can see every app is coming in dark mode which shows that people like black & eye friendly interface to get interact.
+The Dark mode is very important nowadays to take care of your eyes. As you can see every app is coming in the dark mode which shows that people like black & eye-friendly interface to get interact.
 
 ### Conclusion
 #### So the conclusion is today’s mobile app design trends are all about providing the best user-oriented solution in terms of user need with trending designs & technology. Make your design strategy by place your customer in focus to build trust and confidence in your product.
