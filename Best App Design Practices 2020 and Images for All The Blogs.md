@@ -2,11 +2,12 @@
 # Best App Design Practices 2020 and Images for All The Blogs
 
 ------------
-### Optimal mobile app design is design that does not require users to think much and focuses on emotions, motivations, and needs.Why You Should Care: The Importance of Mobile App Design In 2020
+### Optimal mobile app design is design that does not require users to think much and focuses on emotions, motivations and needs.
+### Why You Should Care: The Importance of Mobile App Design In 2020
 
-##### Nowadays, everyone is looking for valuable information, so it's become much harder to create attention-grabbing products. Though, your product may be valuable, but if it is difficult to use, nobody will waste time on to find app flow. Modern design should reflect the latest tech innovations.
+#### Nowadays, everyone is looking for valuable information, so it's become much harder to create attention-grabbing products. Though, your product may be valuable, but if it is difficult to use, nobody will waste time on to find app flow. Modern design should reflect the latest tech innovations.
 
-###Best Practices in Mobile App Design in 2020
+### Best Practices in Mobile App Design in 2020
 
 #### 1. Animations and Microinteractions
 Using micro interaction you are enabling user to get interact with app. It grab the attention directly and we don't need to add a extra text or anything
@@ -36,3 +37,6 @@ The popular example of a buttonless solution is a liquid swipe, which provides a
 
 #### 7. Dark Mode
 Dark mode is very important now days to take care of your eyes. As you can see every app is coming in dark mode which shows that people like black & eye friendly interface to get interact.
+
+### Conclusion
+#### So the conclusion is today’s mobile app design trends are all about providing the best user-oriented solution in terms of user need with trending designs & technology. Make your design strategy by place your customer in focus to build trust and confidence in your product.
