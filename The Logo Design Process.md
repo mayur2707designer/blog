@@ -20,3 +20,23 @@ From other logos in your industry, you can conclude on some solid pieces of info
 - What kind of customers dominates your industry?
 
 ![](https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/08/Screen-Shot-2019-07-25-at-5.03.34-PM-e1564682675835.png?auto=format&q=60&fit=max&w=930)
+
+### The logo usage in different scenarios
+Just like the brand strategy, the physical or digital space the logo will occupy should also inform your design choices. Research where the logo will be used, this is known as the **Application Discovery Phase**.
+
+For example, if you want your logo on large billboards, you can design more detailed, larger-scale logos. If it’s going to be situated in the corner of a mobile app, you should opt for simplicity and smaller scales. If social media will play a heavy role, the logo should sit comfortably in both circular and square avatars and be adaptable to larger cover images. If you want to stand out in video or digital platforms, you can even have an animated logo. So, the designer will have to plan for all of these scenarios.
+
+These are some common use cases for a logo design:
+- Website Icons
+- Signs & Banners
+- Product Packaging
+- Advertisements
+- Social media profiles & Banners
+- Business Cards
+- Company Letterheads
+- Email marketing campaigns
+- Marketing swag (pens, shirts, mugs, etc.)
+
+> **Considering the popularity of responsive logos, you do not have to limit yourself to one standard design. Plus, you always have the best logo for any situation.**
+
+[![Image by Salih Küçükağa.](https://cdn.dribbble.com/users/58267/screenshots/6720627/hemson-pt4.jpg "Image by Salih Küçükağa.")](https://dribbble.com/salihkucukaga "Image by Salih Küçükağa.")
