@@ -84,12 +84,4 @@ In general, it is best to include:
 You could say that great design takes talent, but you can never know for sure what that means or whether you have it. What you can say for sure is that great logos do not happen by accident. They are the result of critical thinking, interrogating, collaborating, exploring, failing, and starting again. Each detail of your logo like colors, fonts, sizes, shapes, and other elements can affect the kind of impression it makes on customers.
 
 > **A smart logo design brings brands to life.**
-=======
-### Sketching is fun!
-If you already have some logo ideas, you might be tempted to jump ahead into logo design software. But before you start proceeding to your final design, take some time to sketch plenty of ideas.
 
-> **Sketching is cheap, easy, and fast, but most importantly, it is an effective brainstorming tool.**
-
-Once you have settled on your preferred concept, try sketching some variations on it, adding or removing elements, changing minor details, and beginning typography explorations.
-
-[![Image by Gert van Duinen](https://cdn.dribbble.com/users/13604/screenshots/14239761/media/f6ed1997373c24ffc9df00cb9dd24697.jpg "Image by Gert van Duinen")](https://dribbble.com/cresk "Image by Gert van Duinen")
