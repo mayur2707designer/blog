@@ -40,3 +40,12 @@ These are some common use cases for a logo design:
 > **Considering the popularity of responsive logos, you do not have to limit yourself to one standard design. Plus, you always have the best logo for any situation.**
 
 [![Image by Salih Küçükağa.](https://cdn.dribbble.com/users/58267/screenshots/6720627/hemson-pt4.jpg "Image by Salih Küçükağa.")](https://dribbble.com/salihkucukaga "Image by Salih Küçükağa.")
+
+### Sketching is fun!
+If you already have some logo ideas, you might be tempted to jump ahead into logo design software. But before you start proceeding to your final design, take some time to sketch plenty of ideas.
+
+> **Sketching is cheap, easy, and fast, but most importantly, it is an effective brainstorming tool.**
+
+Once you have settled on your preferred concept, try sketching some variations on it, adding or removing elements, changing minor details, and beginning typography explorations.
+
+[![Image by Gert van Duinen](https://cdn.dribbble.com/users/13604/screenshots/14239761/media/f6ed1997373c24ffc9df00cb9dd24697.jpg "Image by Gert van Duinen")](https://dribbble.com/cresk "Image by Gert van Duinen")
